@@ -1,0 +1,81 @@
+*{
+	  margin:0;
+	  padding:0;
+   }
+body{ background-image: url("img/c.jpg");}
+
+   #button{
+      text-align:center;
+	  width:450px;
+	  height:35px;
+	  border-radius:6px;
+	  background-color:lightcoral;
+      margin:100px auto 0px auto;
+	  <!---->
+   }
+   font
+   {
+	  font-size:20px;
+	  font-weight:600;
+      float:right;
+	  padding-top:6px;
+	  margin-right:25%;
+   }
+   .anniu
+   {
+      text-align:center;
+	  width:55px;
+	  height:25px;
+	  border:0;
+	  border-radius:6px;
+	  background-color:lightcoral;
+	  color:#999;
+	  font-size:15px;
+	  font-weight:600;
+	  float:right;
+	  margin:5px 10px 0px 0px;
+   }
+   .datetable
+   {	
+		
+   		text-align:center;
+		border:3px solid #ddd;
+		border-radius:6px;
+		width:450px;
+		margin:4px auto;
+   }
+  .head
+  	  {
+	  	font: normal 12px/normal 'microsoft yahei';
+		background:lightcoral;
+		color:balck;
+		padding:10px 15px;
+		border:1px solid #ccc;
+		<!--border-radius:6px;-->
+	  }
+  .head span
+	{
+		padding: 0 5px;
+	}
+   #week td
+   {	
+   		text-align:center;
+   		background-color:lightcoral;
+		height:30px;
+		width:60px;	
+		
+		<!--border-top:1px solid #fff;
+		border-right:1px solid #ccc;-->
+   }
+   tbody tr td
+   {
+		height:50px;
+		width:60px;
+		font-weight:600;
+		color:#333;
+		border:1px solid #ccc;
+		
+		<!--border-right:1px solid #ccc;
+		border-bottom:1px solid #ccc;-->
+   }
+}
